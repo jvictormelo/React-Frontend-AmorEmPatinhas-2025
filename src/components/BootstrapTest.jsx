@@ -17,7 +17,10 @@ const BootstrapTest = () => {
         <Button variant="primary">Veja</Button>
       </Card.Body>
     </Card>
+    
+    
     </div>
+    
     
    
   )
